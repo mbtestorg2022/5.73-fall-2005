@@ -28,11 +28,56 @@ Karplus, Martin, and Porter. _Atoms and Molecules_. Boston, MA: Addison-Wesley, 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 30% |
-| Class Participation/Quizzes | 10% |
-| Mid-term Exam (Take Home) | 25% |
-| Final Exam (In Class) | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation/Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Exam (Take Home)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (In Class)
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You are welcome to work together on the Homework assignments, with the understanding that the final product reflects your understanding of the problem and not anything you've copied from someone else. Both the exams will be open-book, open-notes but you should not consult other people about the exam questions. Quizzes will not be announced ahead of time, and no make-ups will be given. Hence attending class is highly recommended.

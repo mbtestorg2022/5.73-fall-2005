@@ -4,18 +4,229 @@ title: Lecture Notes
 uid: 07e05a58-89a1-159d-207b-5c56bee24449
 ---
 
-| Lec # | TOPICS |
-| --- | --- |
-| 1-4 | _Experimental Evidence for Quantum Mechanics_ ([PDF]({{< baseurl >}}/resources/sec1))  {{< br >}}  {{< br >}}Polarization of Light  {{< br >}}  {{< br >}}Single Molecule Fluorescence |
-| 5-7 | _The Machinery of Quantum Mechanics_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec2))  {{< br >}}  {{< br >}}Hilbert Space  {{< br >}}  {{< br >}}State Vectors  {{< br >}}  {{< br >}}Bra-Ket  {{< br >}}  {{< br >}}Operators and Eigenvalues |
-| 8-12 | _Exactly Solvable Problems_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec3))  {{< br >}}  {{< br >}}Operators and States in Real Space  {{< br >}}  {{< br >}}Harmonic Oscillator  {{< br >}}  {{< br >}}Position Representation and Wave Mechanics  {{< br >}}  {{< br >}}Piecewise Constant Potentials |
-| 13-15 | _Matrix Mechanics_ ([PDF]({{< baseurl >}}/resources/sec4))  {{< br >}}  {{< br >}}Vector Representation of States  {{< br >}}  {{< br >}}Matrices as Operators  {{< br >}}  {{< br >}}Interesting Matrix Properties  {{< br >}}  {{< br >}}Discrete Variable Representation  {{< br >}}  {{< br >}}Variational Method |
-| 16-18 | _Time Dependence_ ([PDF]({{< baseurl >}}/resources/sec5))  {{< br >}}  {{< br >}}Energy Eigenstates and Stationary States  {{< br >}}  {{< br >}}The Propagator  {{< br >}}  {{< br >}}Time Dependence of Average Values  {{< br >}}  {{< br >}}Matrix Representations of the Propagator  {{< br >}}  {{< br >}}Example: Inversion of the Ammonia Molecule |
-| 19-20 | _Angular Momentum_ ([PDF]({{< baseurl >}}/resources/sec6))  {{< br >}}  {{< br >}}Rotations  {{< br >}}  {{< br >}}Commutation Relations  {{< br >}}  {{< br >}}Eigenstates |
-| 21-22 | _Central Potentials_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec7))  {{< br >}}  {{< br >}}Spherical Polar Coordinates  {{< br >}}  {{< br >}}Orbital Angular Momentum Operators  {{< br >}}  {{< br >}}Spherical Harmonics  {{< br >}}  {{< br >}}The Radial Equation  {{< br >}}  {{< br >}}Hydrogen-like Atoms  {{< br >}}  {{< br >}}Electron Spin |
-| 23-24 | _Addition of Angular Momenta_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec8))  {{< br >}}  {{< br >}}Coupled and Uncoupled Bases  {{< br >}}  {{< br >}}Recursion Relations  {{< br >}}  {{< br >}}The Triangle Rule |
-| 25 | _Wigner-Eckart Theorem_ ([PDF]({{< baseurl >}}/resources/sec9))  {{< br >}}  {{< br >}}Spherical Tensors |
-| 26-28 | Perturbation Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10)) |
-| 29-31 | _Identical Particles_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec11))  {{< br >}}  {{< br >}}The Product Basis  {{< br >}}  {{< br >}}Symmetry Under Exchange  {{< br >}}  {{< br >}}Two Electron Atoms  {{< br >}}  {{< br >}}Hartree-Fock  {{< br >}}  {{< br >}}Perturbation Theory  {{< br >}}  {{< br >}}Configuration Interaction |
-| 32-34 | _The Born-Oppenheimer Approximation_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12))  {{< br >}}  {{< br >}}The Adiabatic Approximation  {{< br >}}  {{< br >}}The Coupled Channel Hamiltonian  {{< br >}}  {{< br >}}Non-Adiabatic Effects  {{< br >}}  {{< br >}}Diabatic States  {{< br >}}  {{< br >}}Electron Transfer |
-| 35-38 | _The Hydrogen Molecule_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec13))  {{< br >}}  {{< br >}}Minimal Atomic Orbital Basis  {{< br >}}  {{< br >}}Molecular Orbital Picture  {{< br >}}  {{< br >}}Valence Bond Picture
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-4
+{{< tdclose >}}
+{{< tdopen >}}
+_Experimental Evidence for Quantum Mechanics_ ([PDF]({{< baseurl >}}/resources/sec1))  
+  
+Polarization of Light  
+  
+Single Molecule Fluorescence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+_The Machinery of Quantum Mechanics_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec2))  
+  
+Hilbert Space  
+  
+State Vectors  
+  
+Bra-Ket  
+  
+Operators and Eigenvalues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-12
+{{< tdclose >}}
+{{< tdopen >}}
+_Exactly Solvable Problems_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec3))  
+  
+Operators and States in Real Space  
+  
+Harmonic Oscillator  
+  
+Position Representation and Wave Mechanics  
+  
+Piecewise Constant Potentials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-15
+{{< tdclose >}}
+{{< tdopen >}}
+_Matrix Mechanics_ ([PDF]({{< baseurl >}}/resources/sec4))  
+  
+Vector Representation of States  
+  
+Matrices as Operators  
+  
+Interesting Matrix Properties  
+  
+Discrete Variable Representation  
+  
+Variational Method
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-18
+{{< tdclose >}}
+{{< tdopen >}}
+_Time Dependence_ ([PDF]({{< baseurl >}}/resources/sec5))  
+  
+Energy Eigenstates and Stationary States  
+  
+The Propagator  
+  
+Time Dependence of Average Values  
+  
+Matrix Representations of the Propagator  
+  
+Example: Inversion of the Ammonia Molecule
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+_Angular Momentum_ ([PDF]({{< baseurl >}}/resources/sec6))  
+  
+Rotations  
+  
+Commutation Relations  
+  
+Eigenstates
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+_Central Potentials_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec7))  
+  
+Spherical Polar Coordinates  
+  
+Orbital Angular Momentum Operators  
+  
+Spherical Harmonics  
+  
+The Radial Equation  
+  
+Hydrogen-like Atoms  
+  
+Electron Spin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+_Addition of Angular Momenta_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec8))  
+  
+Coupled and Uncoupled Bases  
+  
+Recursion Relations  
+  
+The Triangle Rule
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Wigner-Eckart Theorem_ ([PDF]({{< baseurl >}}/resources/sec9))  
+  
+Spherical Tensors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26-28
+{{< tdclose >}}
+{{< tdopen >}}
+Perturbation Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29-31
+{{< tdclose >}}
+{{< tdopen >}}
+_Identical Particles_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec11))  
+  
+The Product Basis  
+  
+Symmetry Under Exchange  
+  
+Two Electron Atoms  
+  
+Hartree-Fock  
+  
+Perturbation Theory  
+  
+Configuration Interaction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32-34
+{{< tdclose >}}
+{{< tdopen >}}
+_The Born-Oppenheimer Approximation_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12))  
+  
+The Adiabatic Approximation  
+  
+The Coupled Channel Hamiltonian  
+  
+Non-Adiabatic Effects  
+  
+Diabatic States  
+  
+Electron Transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35-38
+{{< tdclose >}}
+{{< tdopen >}}
+_The Hydrogen Molecule_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec13))  
+  
+Minimal Atomic Orbital Basis  
+  
+Molecular Orbital Picture  
+  
+Valence Bond Picture
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
