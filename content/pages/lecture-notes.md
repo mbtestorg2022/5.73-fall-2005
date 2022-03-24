@@ -35,7 +35,7 @@ Single Molecule Fluorescence
 5-7
 {{< tdclose >}}
 {{< tdopen >}}
-_The Machinery of Quantum Mechanics_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec2))  
+_The Machinery of Quantum Mechanics_ ([PDF]({{< baseurl >}}/resources/sec2))  
   
 Hilbert Space  
   
@@ -52,7 +52,7 @@ Operators and Eigenvalues
 8-12
 {{< tdclose >}}
 {{< tdopen >}}
-_Exactly Solvable Problems_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec3))  
+_Exactly Solvable Problems_ ([PDF]({{< baseurl >}}/resources/sec3))  
   
 Operators and States in Real Space  
   
@@ -122,7 +122,7 @@ Eigenstates
 21-22
 {{< tdclose >}}
 {{< tdopen >}}
-_Central Potentials_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec7))  
+_Central Potentials_ ([PDF]({{< baseurl >}}/resources/sec7))  
   
 Spherical Polar Coordinates  
   
@@ -143,7 +143,7 @@ Electron Spin
 23-24
 {{< tdclose >}}
 {{< tdopen >}}
-_Addition of Angular Momenta_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec8))  
+_Addition of Angular Momenta_ ([PDF]({{< baseurl >}}/resources/sec8))  
   
 Coupled and Uncoupled Bases  
   
@@ -169,7 +169,7 @@ Spherical Tensors
 26-28
 {{< tdclose >}}
 {{< tdopen >}}
-Perturbation Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec10))
+Perturbation Theory ([PDF]({{< baseurl >}}/resources/sec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +178,7 @@ Perturbation Theory (![This resource may not render correctly in a screen reader
 29-31
 {{< tdclose >}}
 {{< tdopen >}}
-_Identical Particles_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec11))  
+_Identical Particles_ ([PDF]({{< baseurl >}}/resources/sec11))  
   
 The Product Basis  
   
@@ -199,7 +199,7 @@ Configuration Interaction
 32-34
 {{< tdclose >}}
 {{< tdopen >}}
-_The Born-Oppenheimer Approximation_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec12))  
+_The Born-Oppenheimer Approximation_ ([PDF]({{< baseurl >}}/resources/sec12))  
   
 The Adiabatic Approximation  
   
@@ -218,7 +218,7 @@ Electron Transfer
 35-38
 {{< tdclose >}}
 {{< tdopen >}}
-_The Hydrogen Molecule_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sec13))  
+_The Hydrogen Molecule_ ([PDF]({{< baseurl >}}/resources/sec13))  
   
 Minimal Atomic Orbital Basis  
   

@@ -26,7 +26,7 @@ SOLUTIONS
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s1))
+([PDF]({{< baseurl >}}/resources/s1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,10 +41,10 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3))
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s3))
+([PDF]({{< baseurl >}}/resources/s3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,13 +62,13 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s5))
+([PDF]({{< baseurl >}}/resources/s5))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -77,10 +77,10 @@ Problem Set 6 (![This resource may not render correctly in a screen reader.](/im
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7))
+Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/s7))
+([PDF - 1.9 MB]({{< baseurl >}}/resources/s7))
 {{< tdclose >}}
 
 {{< trclose >}}

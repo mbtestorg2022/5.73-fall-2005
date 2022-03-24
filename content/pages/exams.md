@@ -8,4 +8,4 @@ Both exams are open-book, open-notes, but you should not consult other people ab
 
 *   Mid-term Exam ([PDF]({{< baseurl >}}/resources/midterm))
     
-*   Practice Final Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final2004))
+*   Practice Final Exam ([PDF]({{< baseurl >}}/resources/final2004))
